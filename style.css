@@ -22,7 +22,7 @@ nav {
   display: flex;
   justify-content: flex-end;
   align-items: center;
-  padding: 0 50px;
+  padding: 10px 0;
   overflow: hidden;
   position: fixed;
   top: 0;
@@ -39,8 +39,6 @@ nav a {
 nav a:hover {
   color: #22d9d0;
 }
-
-
 
 
 
