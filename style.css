@@ -9,7 +9,7 @@ html {
   font-weight: <weight>;
   font-style: normal;
   font-size: 24px;
-  color: #1a50cd;
+  color: #234d97;
   background-color: #ffffff;
 }
 
@@ -30,14 +30,14 @@ nav {
 }
 
 nav a {
-  color: #1a50cd;
+  color: #234d97;
   padding-left: 1.2rem;
   font-weight: bold;
   font-size: 1rem;
 }
 
 nav a:hover {
-  color: #22d9d0;
+  color: #73b6c6;
 }
 
 
