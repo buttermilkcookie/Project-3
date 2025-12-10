@@ -51,3 +51,7 @@ nav a:hover {
   justify-content: center;  
   margin: 2vw;
 }
+
+.invitation-text .name, .invitation-text .date {
+  margin: 0 10px;         
+}
