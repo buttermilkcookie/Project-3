@@ -12,10 +12,6 @@ html {
   background-color: #ffffff;
 }
 
-body {
-  margin-left: 2vw;
-}
-
 .h1title {
   font-size: 3.5rem;
 }
@@ -44,3 +40,14 @@ nav a:hover {
   color: #73b6c6;
 }
 
+.splashimage {
+  align-content: center;
+}
+
+.invitation-text {
+  width: 100%;           
+  display: flex;
+  text-align: center;  
+  justify-content: center;  
+  margin: 2vw;
+}
