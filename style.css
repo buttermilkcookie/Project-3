@@ -8,7 +8,7 @@ html {
   font-optical-sizing: auto;
   font-weight: <weight>;
   font-style: normal;
-  color: #234d97;
+  color: #b8a5ec;
   background-color: #ffffff;
 }
 
@@ -37,7 +37,7 @@ nav a {
 }
 
 nav a:hover {
-  color: #73b6c6;
+  color: #2ea6e5;
 }
 
 .splashimage {
@@ -54,4 +54,34 @@ nav a:hover {
 
 .invitation-text .name, .invitation-text .date {
   margin: 0 10px;         
+}
+
+footer {
+  height: 100px;
+  background-color: #ffffff;
+  padding-top: 55px;
+}
+
+footer a {
+  font-family: "Press Start 2P", sans-serif;
+  font-weight: bold;
+  font-size: 1rem;
+  color: #234d97;
+  text-decoration: none;
+  padding: 4px 0; 
+}
+
+footer a:hover {
+  color: #2ea6e5;
+}
+
+.footer-stuff {
+  padding: 0 4vw;
+
+}
+
+.footer-content {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
 }
