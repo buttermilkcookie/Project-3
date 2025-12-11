@@ -34,10 +34,19 @@ nav a {
   padding-left: 1.2rem;
   font-weight: bold;
   font-size: 1rem;
+  display: block;
+  width: 200px;
+  padding: 15px 5px;
+  border-radius: 5px;
+  margin: 10% auto;
+  background-color: #2ea6e5;
+  text-align: center;
+  color: FloralWhite;
 }
 
 nav a:hover {
-  color: #2ea6e5;
+  background-color: #6941e3;
+  font-size: 20px;
 }
 
 .splashimage {
@@ -132,3 +141,13 @@ p {
   width: 90%;
   margin: 0 auto; 
   text-align: center; 
+}
+
+@keyframes scaleUp {
+  0% {
+    transition: scale(.5);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
