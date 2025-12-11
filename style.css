@@ -85,3 +85,46 @@ footer a:hover {
   flex-direction: column;
   gap: 6px;
 }
+
+.image1 {
+  width: 90vw;
+  position: sticky;
+  top: 30;
+  left: 20vw;
+}
+
+.wanderer1 {
+  height: 150px;
+  width: auto;
+  float: left;
+}
+
+.image2 {
+  width: 90vw;
+  position: sticky;
+  top: 30;
+}
+
+.wanderer2 {
+  height: 150px;
+  width: auto;
+  float: right;
+}
+
+main {
+  position: relative;
+  top: 20px;
+  width: 100%;
+  margin: 0;
+}
+
+p {
+  font-family: "Space Grotesk", sans-serif;
+  font-size: 1.5rem;
+  text-align: center;
+  line-height: 1.4;
+  color: #234d97;
+  margin: 2.5rem auto;
+  max-width: 1000px;
+  padding: 0 1.5rem;
+}
