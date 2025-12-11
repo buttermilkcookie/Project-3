@@ -6,9 +6,9 @@
 html {
   font-family: "Space Grotesk", sans-serif;
   font-optical-sizing: auto;
-  font-weight: <weight>;
+  font-weight: 500;
   font-style: normal;
-  color: #5d22fe;
+  color: #6941e3;
   background-color: #ffffff;
 }
 
@@ -129,7 +129,6 @@ p {
 }
 
 .center-page {
-  width: 90%;        /* or a fixed width like 800px */
-  margin: 0 auto;    /* centers the wrapper horizontally */
-  text-align: center; /* centers inline and text content inside it */
-}
+  width: 90%;
+  margin: 0 auto; 
+  text-align: center; 
