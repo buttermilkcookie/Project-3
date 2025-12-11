@@ -128,3 +128,8 @@ p {
   padding: 0 1.5rem;
 }
 
+.center-page {
+  width: 90%;        /* or a fixed width like 800px */
+  margin: 0 auto;    /* centers the wrapper horizontally */
+  text-align: center; /* centers inline and text content inside it */
+}
