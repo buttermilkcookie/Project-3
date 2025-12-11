@@ -101,14 +101,13 @@ footer a:hover {
 
 .image2 {
   width: 90vw;
-  position: sticky;
-  top: 30;
 }
 
 .wanderer2 {
+  float: right;
   height: 150px;
   width: auto;
-  float: right;
+  margin: 1rem; 
 }
 
 main {
@@ -128,3 +127,4 @@ p {
   max-width: 1000px;
   padding: 0 1.5rem;
 }
+
